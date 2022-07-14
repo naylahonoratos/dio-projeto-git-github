@@ -1,2 +1,2 @@
-# dio-projetogit-gihub
+# dio-projeto-git-github
 Primeiro projeto bootcamp 
